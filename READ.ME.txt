@@ -1,3 +1,0 @@
-Font-family: Jost Rgular, Marcellus Regular
-Icons: Search icon, arrow down
-Color: #F1F1F0
